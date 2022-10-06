@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "sonarqube-setup",
+        "projectKey": "sonarqube-setup_sonarqube-setup-repo"
+    }
+}
